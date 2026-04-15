@@ -1,0 +1,49 @@
+John Doe
+Senior Software Engineer
+Email: john.doe@email.com | Phone: (555) 123-4567 | LinkedIn: linkedin.com/in/johndoe
+
+PROFESSIONAL SUMMARY
+Results-driven Senior Software Engineer with 6+ years of experience building scalable web applications and microservices. Passionate about clean code, test-driven development, and mentoring junior developers. Led teams of 5-8 engineers delivering mission-critical systems.
+
+EXPERIENCE
+
+Senior Software Engineer | TechCorp Inc. | Jan 2021 - Present
+- Architected and built a real-time analytics dashboard using React, Node.js, and PostgreSQL serving 50K+ daily users
+- Reduced API response time by 40% through implementing Redis caching and query optimization
+- Led migration from monolithic architecture to microservices using Docker and Kubernetes
+- Mentored 4 junior developers and conducted 100+ code reviews
+- Implemented CI/CD pipelines using GitHub Actions, reducing deployment time by 60%
+
+Software Engineer | StartupXYZ | Jun 2018 - Dec 2020
+- Developed customer-facing features using React and TypeScript for an e-commerce platform
+- Built REST APIs using Python/Django handling 10K+ requests per minute
+- Designed and implemented a recommendation engine using collaborative filtering
+- Increased test coverage from 45% to 85% using Jest and Pytest
+- Collaborated with product team to define technical requirements and sprint planning
+
+Junior Developer | WebAgency LLC | Jan 2017 - May 2018
+- Created responsive web applications using HTML, CSS, and JavaScript
+- Maintained and debugged legacy PHP applications
+- Developed automated testing scripts reducing QA time by 30%
+
+EDUCATION
+Bachelor of Science in Computer Science | University of Technology | 2016
+GPA: 3.7/4.0
+
+SKILLS
+Programming: Python, JavaScript, TypeScript, Java, SQL
+Frontend: React, Next.js, HTML5, CSS3, Redux
+Backend: Node.js, Django, FastAPI, Express
+Databases: PostgreSQL, MongoDB, Redis, Elasticsearch
+DevOps: Docker, Kubernetes, AWS, CI/CD, GitHub Actions
+Tools: Git, Jira, Figma, Linux
+
+PROJECTS
+Open Source Contribution - React Component Library
+- Created a reusable React component library with 500+ GitHub stars
+- Implemented accessibility features following WCAG 2.1 guidelines
+- Published to npm with automated versioning and changelog generation
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect - Associate (2023)
+- Google Cloud Professional Developer (2022)
