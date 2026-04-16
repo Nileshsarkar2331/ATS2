@@ -8,4 +8,4 @@ sentence-transformers==3.1.0
 faiss-cpu==1.13.2
 scikit-learn==1.5.2
 numpy==1.26.4
-asyncio-timeout==4.0.3
+async-timeout==4.0.2
